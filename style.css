@@ -48,13 +48,13 @@ overflow: hidden;
 }
 
 .header img{
-    width: 150px;
+    width: 40%;
     padding-top: 14px;
     padding-right: 25px;
 }
 
 #home-logo-img{
-    width: 50px;
+    width: 200px;
     display: block;
     margin:auto;
     padding: 25px 10px 10px 10px;
